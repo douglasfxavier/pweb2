@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="InsereDadosBanco" project="memoriam" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="br.edu.ifpb.memoriam.test.InsereDadosBanco" time="0.424">
+    <testcase name="test01InsereContatos" classname="br.edu.ifpb.memoriam.test.InsereDadosBanco" time="0.001"/>
+    <testcase name="test02InsereOperadoras" classname="br.edu.ifpb.memoriam.test.InsereDadosBanco" time="0.424"/>
+  </testsuite>
+</testrun>
